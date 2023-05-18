@@ -16,5 +16,15 @@ namespace WinFormPrac
         {
             InitializeComponent();
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("반갑습니더");
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
